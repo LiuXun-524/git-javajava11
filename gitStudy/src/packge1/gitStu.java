@@ -10,5 +10,6 @@ public class gitStu {
 		System.out.println("2554");
 		//冲突冲突
 		System.out.println("冲突冲突");
+		System.out.println("add to index");
 	}
 }
