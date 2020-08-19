@@ -6,6 +6,6 @@ public class gitStu {
 	 */
 	public gitStu() {
 		// TODO Auto-generated constructor stub
-		System.out.println("152");
+		System.out.println("15524552");
 	}
 }
