@@ -12,5 +12,8 @@ public class gitStu {
 		System.out.println("冲突冲突");
 		System.out.println("add to index");
 		System.out.println("jidaohf");
+		System.out.println("冲突冲突");
+		System.out.println("add to index");
+		System.out.println("jidaohf");
 	}
 }
